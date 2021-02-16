@@ -1,0 +1,17 @@
+body {
+  font-family: "Avenir Next";
+}
+.top-wrapper {
+  background-image:url(IMG_7080.jpg);
+  background-size:cover;
+  padding-top:180px;
+  padding-bottom: 600px;
+  color: #fff;
+}
+.top-wrapper h1 {
+  text-align:center;
+}
+
+@media(max-width:670px) {
+  
+}
